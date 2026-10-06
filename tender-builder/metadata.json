@@ -1,0 +1,5 @@
+{
+  "name": "Tender Document Package Builder",
+  "description": "Frontend-only tool: match PDFs to tender requirements, check expiry and duplicates, and generate one ordered PDF package with cover page and page-numbered footer.",
+  "requestFramePermissions": []
+}
